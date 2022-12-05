@@ -1,0 +1,19 @@
+ /* .carousel {
+    height: 40vh;
+    width: 35vw;
+    
+} */
+
+.carousel img {
+    top:30%;
+    height: 40vh;
+    width: 35vw;
+} 
+
+#carouselExampleIndicators {
+    position: fixed;
+    left: 15%;
+    height: 40vh;
+    width: 35vw;
+    top: 30%;
+}
