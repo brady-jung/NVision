@@ -11,14 +11,7 @@ left: 0px;
 top: 0px;
 } 
  
-.footer {
-    /* Footer */
-    position: absolute;
-    width: 100%;
-    height: 3vh;
-    left: 0px;
-    top: 70vh;
-}
+
 
 /* Navbar Background */
 
@@ -48,66 +41,27 @@ top: 0px;
 }
 
 
-.diagonal_polygon {
-    position: absolute;
-    top:10vh;
-    bottom: 0;
-    right: 0;
-    left: 0;
-    width: 100%;
-    height:100%;
-    background-image: linear-gradient(#A3C5EB,#A3C5EB);
-    transform: skewY(-40deg);
-    transform-origin: top right;
-  }
-
-.bottom_rectangle {
-    position:absolute;
-    height:60vh;
-    width:100vw;
-    left:0px;
-    /*top:950px;*/
-    bottom:0px;
-    background-color:#A3C5EB;
-  
-}
-
-.red_square {
-    box-sizing: border-box;
-
-    position: absolute;
-    width: 35vw;
-    height: 35vw;
-    left: 10vw;
-    top: 20vh;
-
-    /* AC_Red */
-
-    background: #BB3B4B;
-    border: 2px solid #000000;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
-
-
-
-.text_box {
-    position: absolute;
-    width: 35vw;
-    height: 35vw;
-    left: 59.1vw;
-    top: 20vh;
-
-    background: #D9D9D9;
-}
-
-p {
+p,h1 {
+    display:none;
     font-family: 'Gothic A1';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
 
 }
+h1{
+    display:none;
+    font-size:48px;
+
+}
+
+
 
 body {
-   overflow:hidden;
-}
+    
+    
+    background-image: url(common_background.png);
+    background-size: 100vw 100vh;
+
+    
+ } 
