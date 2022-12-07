@@ -1,0 +1,47 @@
+body {
+    
+    
+    background-color: transparent;
+    background-image: none;
+    background-size: 100vw 100vh;
+
+    
+} 
+.carousel {
+    width: 100vw;
+    height: 90vh;
+    z-index: -1;
+}
+.carousel-inner{
+    width: 100vw;
+    height: 90vh;
+}
+.img {
+    width:100vw;
+    max-height:90vh;
+}
+.scroll-up{
+    text-align: center;
+    bottom:0;
+}
+.spacer{
+    height:85vh;
+    z-index:-2;
+}
+h2{
+        /*display:none;*/
+        font-family: 'Gothic A1';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+    
+}
+h3{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+.white{
+    color:white;
+}
