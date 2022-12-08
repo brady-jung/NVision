@@ -1,0 +1,14 @@
+a.hiddenlink{
+    color:black
+}
+body {
+    
+    
+    background-color: transparent;
+    background-image: none;
+    background-size: 100vw 100vh;
+    top: 10vh;
+    background-image: url(features_images/featuresbackground.png);
+    background-size: 100vw 100vh;
+    
+} 
