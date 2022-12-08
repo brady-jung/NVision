@@ -3,30 +3,31 @@
     width: 35vw;
     
 } */
-/* Carosel Style */
-.carousel img {
+/* Motor Picture Style */
+.motor_picture img {
     top:30%;
     height: 54.5vh;
     width: 43vw;
     border: 2px solid black;
+
 } 
-/* Carosel Style too */
-#carouselExampleIndicators {
+/* Motor Picture Style */
+.motor_picture img {
     position: fixed;
     left: 15%;
     height: 54.5vh;
     width: 43vw;
     top: 15.5%;
 }
-/* Exterior title style */
-.exterior_title {
+/* Motor Title Style */
+.Motor_title {
     font-family: 'Gothic A1'; font-size: 48px;
     position: fixed;
     bottom: 73%;
     right: 13%
 }
-/* Exterior Body Style */
-.exterior_body {
+/* Motor Body Style */
+.Motor_body {
     font-family: 'Gothic A1'; font-size: 24px;
     position: fixed;
     bottom: 21%;
