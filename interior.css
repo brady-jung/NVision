@@ -1,0 +1,16 @@
+/*Central Image Style*/
+
+#interior_img {
+    padding-left: 20vh;
+    padding-top: 10vh;
+    height: 60vh;
+    width: 105vh;
+
+}
+
+/*Main Paragraph Style*/
+
+.main_text {
+    padding-right: 17vh;
+    padding-top: 13vh;
+}
