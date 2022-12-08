@@ -1,0 +1,14 @@
+/*Central Image Style*/
+
+#climate_con_img {
+    padding-left: 30vh;
+    padding-top: 10vh;
+    height: 44vh;
+}
+
+/*Main Paragraph Style*/
+
+.main_text {
+    padding-right: 17vh;
+    padding-top: 20vh;
+}
